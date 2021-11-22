@@ -1,0 +1,40 @@
+@media screen and (max-width: 380px){
+    .container .filters h3{
+        visibility: hidden;
+    }
+
+    .container .filters h4{
+        visibility: hidden;
+    }
+
+    .container .filters .locations{
+        border: hidden;
+    } 
+
+    .container .filters{
+        height: 50px;
+        width: 280px;
+    } 
+
+    .container .filters button {
+        height: 40px;
+        width: 40px;
+        top: 29px;
+        right: 5px;
+        padding-top: 6px;
+        padding-top: 8px;
+        padding-left: 5px;
+    }
+
+    .container .filters button .icon_lupa {
+        height: 30px;
+        width: 30px;
+        background-image: url(../images/lupa.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    .container .filters button p {
+        visibility: hidden;
+    }
+}

@@ -1,0 +1,11 @@
+@media screen and (max-width: 380px){   
+    header .img_menu{
+        background-image: url(../images/menu.png);
+        background-size: contain;
+        position: absolute;
+        right: 25px;
+        top: 20px;
+        width: 30px;
+        height: 30px;
+    }
+}

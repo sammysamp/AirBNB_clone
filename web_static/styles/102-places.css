@@ -1,0 +1,9 @@
+@media screen and (max-width: 380px){
+    .container .places h1{
+        margin-left: 27px;
+    }
+
+    .container .places article{
+        width: 280px;
+    }
+}

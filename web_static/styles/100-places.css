@@ -1,0 +1,67 @@
+.places article .Amenities ul li .tv .logo {
+	background-image: url("../images/icon_tv.png");
+	background-repeat: no-repeat;
+	width: 25px;
+	height: 25px;
+	background-size: contain;
+	margin-right: 15px;
+}
+.places article .Amenities ul li .Wifi .logo {
+	background-image: url("../images/icon_wifi.png");
+	background-repeat: no-repeat;
+	width: 25px;
+	height: 25px;
+	background-size: contain;
+	margin-right: 15px;
+}
+
+.places article .Amenities ul li .Pets_friendly .logo {
+	background-image: url("../images/icon_pets.png");
+	background-repeat: no-repeat;
+	width: 25px;
+	height: 25px;
+	background-size: contain;
+	margin-right: 15px;
+}
+
+.places article .Amenities ul li .tv {
+	display: flex;
+	justify-content: start;
+	align-items: center;
+}
+.places article .Amenities ul li .Wifi {
+	display: flex;
+	justify-content: start;
+	align-items: center;
+}
+.places article .Amenities ul li .Pets_friendly {
+	display: flex;
+	justify-content: start;
+	align-items: center;
+}
+.places article .Amenities ul {
+	padding-left: 0px;
+}
+.places article .Review ul {
+	padding-left: 0px;
+}
+.places article .Amenities h2 {
+	border-bottom: #DDDDDD 1px solid;
+	font-size: 16px;
+	margin-top: 40px;
+}
+.places article .Review h2 {
+	border-bottom: #DDDDDD 1px solid;
+	margin-top: 40px;
+	font-size: 16px;
+}
+
+.places article .Review ul li h3 {
+	font-size: 14px;
+	margin-bottom: 0px;
+}
+.places article .Review ul li p {
+	margin-top: 0px;
+	font-size: 12px;
+}
+
